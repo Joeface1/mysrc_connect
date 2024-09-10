@@ -99,7 +99,7 @@ class _ComplaintsFormState extends State<ComplaintsForm> {
               children: [
                 const Text(
                   textAlign: TextAlign.center,
-                  "Fill out the form below to submit your",
+                  "Fill out the form below to submit your Complaints",
                   style: TextStyle(
                     fontSize: 18,
                     fontFamily: 'Poppins',
