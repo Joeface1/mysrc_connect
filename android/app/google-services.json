@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574308339816",
+    "project_id": "mysrc-connect",
+    "storage_bucket": "mysrc-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574308339816:android:0fe4a17fefd2cdb7f82bdd",
+        "android_client_info": {
+          "package_name": "com.example.mysrc_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ4LHhYjy0qKP83XBr2eTBAxM5FLkp-c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
