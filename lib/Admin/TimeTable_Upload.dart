@@ -44,8 +44,9 @@ class _TimeTablePostState extends State<TimeTablePost> {
   }
 
   Future<void> _uploadFile() async {
-    if (_selectedFile == null || _fileName == null || _academicYear == null)
+    if (_selectedFile == null || _fileName == null || _academicYear == null) {
       return;
+    }
 
     setState(() {
       _isUploading = true;

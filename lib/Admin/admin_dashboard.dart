@@ -7,7 +7,6 @@ import 'package:mysrc_connect/Admin/Questions_Received.dart';
 import 'package:mysrc_connect/Admin/Suggestions_Received_Page.dart';
 import 'package:mysrc_connect/Admin/TimeTable_Upload.dart';
 import 'package:mysrc_connect/Admin/Tuition&EnrollmentUpload.dart';
-import 'package:mysrc_connect/User/NewsFeed/Examination_Page.dart';
 
 class AdminDashboard extends StatelessWidget {
   const AdminDashboard({super.key});

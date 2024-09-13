@@ -150,7 +150,7 @@ class HelpDeskDashboard extends StatelessWidget {
                   Navigator.push(
                       context,
                       MaterialPageRoute(
-                          builder: (context) => AskQuestionPage()));
+                          builder: (context) => const AskQuestionPage()));
                 },
                 child: Container(
                   height: 62,

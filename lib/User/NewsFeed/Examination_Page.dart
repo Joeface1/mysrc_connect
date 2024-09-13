@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart'; // Make sure to import this
 
 class Examination extends StatefulWidget {
-  const Examination({Key? key}) : super(key: key);
+  const Examination({super.key});
 
   @override
   _ExaminationState createState() => _ExaminationState();
